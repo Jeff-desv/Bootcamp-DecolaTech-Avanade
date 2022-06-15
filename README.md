@@ -37,5 +37,21 @@
   <li>Javascript Assíncrono</li>
   <li>Orientação a Objetos</li>
   <li>Manipulando a D.O.M com Javascript</li>
+  <h3>Módulo IV - React Native</h3>
+  <li>Introdução ao React Native</li>
+  <ul>
+    <li>Componentes</li>
+    <li>API</li>
+    <li>Conhecendo o <strong>View</strong> e <strong>Text</strong></li>
+    <li>Conhecendo o Stylesheet</li>
+    <li>Conhecendo o <strong>SafeAreaView</strong> e <strong>StatusBar</strong></li>
+    <li>Conhecendo o Flex-Box</li>
+  </ul>
+  <li>Construindo um App usando Sensor de Movimento com React Native</li>
+  <ul>
+    <li>useState</li>
+    <li>useEffect>
+  </ul>
+  <li>Criando Aplicações móveis multiplataforma com React Native</li>
   
   

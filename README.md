@@ -26,5 +26,16 @@
   <h3>Módulo II - HTML e CSS3</h3>
   <li>Primeiros Passos para o Desenvolvimento Web</li>
   <li>Introdução a criação de Websites com HTML5 e CSS3</li>
+  <h3>Módulo III - Javascript</h3>
+  <li>IDE Instalação e Conficuração (Visual Studio Code)</li>
+  <li>Introdução ao Javascript</li>
+  <li>Sintaxe básica em Javascript</li>
+  <li>Sintaxe e Operadores</li>
+  <li>Variáveis e Tipos</li>
+  <li>Funções</li>
+  <li>Debugging e Error Handling</li>
+  <li>Javascript Assíncrono</li>
+  <li>Orientação a Objetos</li>
+  <li>Manipulando a D.O.M com Javascript</li>
   
   

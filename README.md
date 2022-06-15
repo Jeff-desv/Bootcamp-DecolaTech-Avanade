@@ -50,8 +50,13 @@
   <li>Construindo um App usando Sensor de Movimento com React Native</li>
   <ul>
     <li>useState</li>
-    <li>useEffect>
+    <li>useEffect</li>
   </ul>
   <li>Criando Aplicações móveis multiplataforma com React Native</li>
   
-  
+  <br>
+  <hr>
+  <span> 
+    Esses foram alguns dos tópicos Abordados durante o Bootcamp <br>
+    tem muito mais conteúdo que nos forma passado durante esses meses, e cada um teve sua devida importância para o desenvolvimento das atividades e desafios.
+  </span>

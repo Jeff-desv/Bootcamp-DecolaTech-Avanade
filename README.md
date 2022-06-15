@@ -1,4 +1,4 @@
-<span> Repositório Dedicado para o Compartilhamento de Atividades </span>
+<h1> Repositório Dedicado para o Compartilhamento de Atividades </h1>
 
 <br>
 
@@ -13,3 +13,18 @@
   onde os candidatos poderão aprender desde o básico, como Introdução a HTML5 e CSS3, até o avançado ao desenvolver um projeto para celulares do zero  
   com React Native. <br> A trilha completa terá 61 horas de duração com certificação para os concluintes.
 </p>
+
+<br>
+
+<h2> Tópicos Abordados no Decorrer do Bootcamp </h2>
+
+<ol>
+  <h3>Módulo I - Introdução</h3>
+  <li>Introdução à Programação e Pensamento Computacional</li>
+  <li>Introdução ao Git e Github</li>
+  <br>
+  <h3>Módulo II - HTML e CSS3</h3>
+  <li>Primeiros Passos para o Desenvolvimento Web</li>
+  <li>Introdução a criação de Websites com HTML5 e CSS3</li>
+  
+  
